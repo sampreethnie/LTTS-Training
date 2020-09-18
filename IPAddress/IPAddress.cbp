@@ -31,6 +31,9 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="ipaddress.cc" />
+		<Unit filename="ipaddress.h" />
+		<Unit filename="ipaddresstest.cc" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

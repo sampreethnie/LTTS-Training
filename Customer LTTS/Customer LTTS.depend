@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1600447717 source:c:\users\sampreeth\desktop\sampreeth\customer ltts\customer.cc
+	<iostream>
+	"customer.h"
+
+1600446791 c:\users\sampreeth\desktop\sampreeth\customer ltts\customer.h
+	<iostream>
+
+1600447759 source:c:\users\sampreeth\desktop\sampreeth\customer ltts\customertest.cc
+	"customer.h"
+	<gtest/gtest.h>
+
