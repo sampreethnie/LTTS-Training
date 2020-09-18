@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1600412728 source:c:\users\training\desktop\sampreeth\point ltts\pointtest.cc
+	"point.h"
+	<gtest/gtest.h>
+
+1600412739 c:\users\training\desktop\sampreeth\point ltts\point.h
+

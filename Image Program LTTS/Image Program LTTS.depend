@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600405980 source:c:\users\training\desktop\sampreeth\image program ltts\imagetest.cc
+	"image.h"
+	<gtest/gtest.h>
+
+1600405629 c:\users\training\desktop\sampreeth\image program ltts\image.h
+
+1600406069 source:c:\users\training\desktop\sampreeth\image program ltts\image.cc
+	<iostream>
+	"image.h"
+

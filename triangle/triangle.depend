@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\training\desktop\triangle\main.cpp
+	<iostream>
+
+1600258625 source:c:\users\training\desktop\abcd\triangle_test.cc
+	"Triangle.h"
+	<gtest/gtest.h>
+
+1600257746 c:\users\training\desktop\abcd\triangle.h
+
+1600258625 source:c:\users\training\desktop\triangle\triangle.cc
+	"Triangle.h"
+
+1600257746 c:\users\training\desktop\triangle\triangle.h
+
+1600258625 source:c:\users\training\desktop\triangle\triangle_test.cc
+	"Triangle.h"
+	<gtest/gtest.h>
+

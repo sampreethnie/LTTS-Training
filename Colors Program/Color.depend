@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600408078 source:c:\users\training\desktop\sampreeth\colors program\colortest.cc
+	"color.h"
+	<gtest/gtest.h>
+
+1600408055 c:\users\training\desktop\sampreeth\colors program\color.h
+
+1600408055 source:c:\users\training\desktop\sampreeth\colors program\color.cc
+	<iostream>
+	"color.h"
+

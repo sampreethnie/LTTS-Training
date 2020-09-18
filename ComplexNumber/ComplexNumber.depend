@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600433340 source:c:\users\training\desktop\sampreeth\complexnumber\complex.cc
+	<iostream>
+	"complex.h"
+
+1600433248 c:\users\training\desktop\sampreeth\complexnumber\complex.h
+
+1600433990 source:c:\users\training\desktop\sampreeth\complexnumber\complextest.cc
+	"complex.h"
+	<gtest/gtest.h>
+
