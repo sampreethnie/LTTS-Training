@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1600500360 source:c:\users\training\desktop\ltts-training\distance\distancetest.cc
+	"distance.h"
+	<gtest/gtest.h>
+
+1600500536 c:\users\training\desktop\ltts-training\distance\distance.h
+
+1600500517 source:c:\users\training\desktop\ltts-training\distance\distance.cc
+	"distance.h"
+	<iostream>
+
