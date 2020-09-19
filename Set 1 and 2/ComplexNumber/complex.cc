@@ -10,25 +10,25 @@ Complex :: Complex(int t): m_real(t) {}
 Complex Complex::operator+ (const Complex &ref)
 {
 
-    int tmins = m_imag + ref.m_imag;
-    int thrs = m_real + ref.m_real;
-    return Complex(thrs,tmins);
+    int imaginary = m_imag + ref.m_imag;
+    int real = m_real + ref.m_real;
+    return Complex(imaginary,real);
 }
 
 Complex Complex::operator- (const Complex &ref)
 {
 
-    int tmins = m_imag - ref.m_imag;
-    int thrs = m_real - ref.m_real;
-    return Complex(thrs,tmins);
+    int imaginary = m_imag - ref.m_imag;
+    int real = m_real - ref.m_real;
+    return Complex(imaginary,real);
 }
 
 Complex Complex::operator* (const Complex &ref)
 {
 
-    int tmins = m_imag * ref.m_imag;
-    int thrs = m_real * ref.m_real;
-    return Complex(thrs,tmins);
+    int imaginary = m_imag * ref.m_imag;
+    int real = m_real * ref.m_real;
+    return Complex(imaginary,real);
 }
 
 Complex& Complex::operator++(){
